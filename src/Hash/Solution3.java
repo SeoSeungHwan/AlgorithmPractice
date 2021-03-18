@@ -2,7 +2,7 @@ package Hash;
 
 import java.util.HashMap;
 
-class solution3 {
+class Solution3 {
     public int solution3(String[][] clothes) {
 
         int answer = 1;

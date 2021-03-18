@@ -3,7 +3,7 @@ package StackQueue;
 import java.util.LinkedList;
 import java.util.Stack;
 
-class solution3 {
+class Solution3 {
     public int[] solution3(int[] prices) {
         int[] answer = {};
 

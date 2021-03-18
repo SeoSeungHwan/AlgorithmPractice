@@ -3,7 +3,7 @@ package StackQueue;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class solution1 {
+public class Solution1 {
     public int solution1(int bridge_length, int weight, int[] truck_weights) {
 
         int answer = 0;
@@ -38,7 +38,7 @@ public class solution1 {
     }
 
     public static void main(String[] args) {
-        solution1 solution1 = new solution1();
+        Solution1 solution1 = new Solution1();
         int[] arr = {7,4,5,6};
         System.out.println(solution1.solution1(2,10,arr));
     }
