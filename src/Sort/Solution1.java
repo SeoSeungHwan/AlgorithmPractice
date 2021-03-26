@@ -2,7 +2,7 @@ package Sort;
 
 import java.util.Arrays;
 
-public class solution1 {
+public class Solution1 {
     public int[] solution1(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
 
