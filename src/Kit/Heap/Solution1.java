@@ -1,4 +1,4 @@
-package Heap;
+package Kit.Heap;
 
 import java.util.PriorityQueue;
 

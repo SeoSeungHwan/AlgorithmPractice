@@ -1,6 +1,5 @@
-package StackQueue;
+package Kit.StackQueue;
 
-import java.util.LinkedList;
 import java.util.Stack;
 
 class Solution3 {

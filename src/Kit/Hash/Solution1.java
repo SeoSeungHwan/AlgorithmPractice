@@ -1,4 +1,4 @@
-package Hash;
+package Kit.Hash;
 
 import java.util.Arrays;
 

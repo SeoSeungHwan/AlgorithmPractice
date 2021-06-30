@@ -1,9 +1,9 @@
-package DevMatching;
+package Level1;
 
 //로또의 최고 순위와 최저 순위
 //https://programmers.co.kr/learn/courses/30/lessons/77484
-class Solution {
-    public int[] solution(int[] lottos, int[] win_nums) {
+class Lotto {
+    public int[] lotto(int[] lottos, int[] win_nums) {
         int[] answer = new int[2];
 
         int correct = 0;

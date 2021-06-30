@@ -1,11 +1,11 @@
-package Kakao;
+package Level2;
 
 //2019 KAKAO BLIND RECRUITMENT - 오픈 채팅방
 //https://programmers.co.kr/learn/courses/30/lessons/42888
 
 import java.util.*;
-class Solution {
-    public String[] solution(String[] record) {
+class OpenChat {
+    public String[] openchat(String[] record) {
 
 
         HashMap<String,String> map = new HashMap<>();

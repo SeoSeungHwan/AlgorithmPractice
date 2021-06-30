@@ -1,4 +1,4 @@
-package StackQueue;
+package Kit.StackQueue;
 
 //https://programmers.co.kr/learn/courses/30/lessons/42584
 //주식 가격

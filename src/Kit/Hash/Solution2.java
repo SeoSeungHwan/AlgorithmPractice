@@ -1,4 +1,4 @@
-package Hash;
+package Kit.Hash;
 
 class Solution2 {
     public boolean solution2(String[] phone_book) {

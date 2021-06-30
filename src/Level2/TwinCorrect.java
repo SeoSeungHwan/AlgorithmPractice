@@ -1,11 +1,11 @@
-package SomeElse;
+package Level2;
 
 import java.util.*;
 
 //올바른 괄호
 //https://programmers.co.kr/learn/courses/30/lessons/12909
-public class Solution1 {
-    boolean Solution1(String s) {
+public class TwinCorrect {
+    boolean twincorrect(String s) {
         boolean answer = true;
 
         Stack<String> stack = new Stack<>();
