@@ -8,9 +8,9 @@ class AEIOU {
         String s = "AEIOU";
         int[] arr = {781,156,31,6,1};
         int answer = word.length();
-        int index = word.length();
+
         for(int i=0; i<word.length(); i++){
-            index = s.indexOf(word.charAt(i));
+            int index = s.indexOf(word.charAt(i));
             answer += arr[i] * index;
         }
 
