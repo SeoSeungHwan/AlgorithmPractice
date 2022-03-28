@@ -3,9 +3,9 @@ package Level3;
 //DP - 정수 삼각형
 //https://programmers.co.kr/learn/courses/30/lessons/43105
 
-class Solution {
+class IntTriangle {
 
-    public int solution(int[][] triangle) {
+    public int intTriangle(int[][] triangle) {
 
         int[][] dp = new int[triangle.length][triangle.length];
         dp[0][0] = triangle[0][0];
