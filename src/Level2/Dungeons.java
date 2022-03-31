@@ -4,7 +4,7 @@ package Level2;
 //위클리 챌린지 12주차 - 피로도
 
 class Dungeons {
-    public static int dungeons;
+    public static int answer;
     public static boolean[] visit;
     public int solution(int k, int[][] dungeons) {
         answer = 0;
