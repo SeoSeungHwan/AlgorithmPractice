@@ -1,4 +1,4 @@
-package backjoon.queue.최대힙;
+package backjoon.priorityqueue.최대힙;
 
 import java.io.BufferedReader;
 import java.io.IOException;
